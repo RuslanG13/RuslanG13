@@ -15,6 +15,7 @@ Also, I have some experience in automated testing_
 [![postman](https://github.com/RuslanG13/RuslanG13/blob/main/src/Programming%20language%20%26%20Tools/postman_logo.jpg)](https://www.postman.com/)
 [![graphQL](https://github.com/RuslanG13/RuslanG13/blob/main/src/Programming%20language%20%26%20Tools/graphQL_icon.jpg)](https://altairgraphql.dev/)
 [![linux](https://github.com/RuslanG13/RuslanG13/blob/main/src/Programming%20language%20%26%20Tools/linux_logo.jpg)](https://www.linux.org/)
+
 [![git](https://github.com/RuslanG13/RuslanG13/blob/main/src/Programming%20language%20%26%20Tools/git_logo.jpg)](https://git-scm.com/)
 [![jira](https://github.com/RuslanG13/RuslanG13/blob/main/src/Programming%20language%20%26%20Tools/jira_logo.jpg)](https://www.atlassian.com/software/jira)
 [![trello](https://github.com/RuslanG13/RuslanG13/blob/main/src/Programming%20language%20%26%20Tools/trello_logo_.jpg)](https://trello.com/)
