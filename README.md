@@ -9,10 +9,12 @@ Also, I have some experience in automated testing_
 
 ---
 ### Programming languages and Tools
-[![js](src/javascript_original_logo_icon_1464552.jpg)](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
-[![cypress](src/cypress.jpg)](https://www.cypress.io/)
-[![playwright](src/playwright.jpg)](https://playwright.dev/)
-[![postman](src/postman.jpg)](https://www.postman.com/)
-[![linux](src/linux.jpg)](https://www.linux.org/)
-
-[![linux](src/linux.jpg)](https://www.linux.org/)
+[![js](https://github.com/RuslanG13/RuslanG13/blob/main/src/Programming%20language%20%26%20Tools/javascript_logo.jpg)](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
+[![cypress](https://github.com/RuslanG13/RuslanG13/blob/main/src/Programming%20language%20%26%20Tools/cypress_logo.jpg)](https://www.cypress.io/)
+[![playwright](https://github.com/RuslanG13/RuslanG13/blob/main/src/Programming%20language%20%26%20Tools/playwright_logo.jpg)](https://playwright.dev/)
+[![postman](https://github.com/RuslanG13/RuslanG13/blob/main/src/Programming%20language%20%26%20Tools/postman_logo.jpg)](https://www.postman.com/)
+[![linux](https://github.com/RuslanG13/RuslanG13/blob/main/src/Programming%20language%20%26%20Tools/linux_logo.jpg)](https://www.linux.org/)
+[![git](https://github.com/RuslanG13/RuslanG13/blob/main/src/Programming%20language%20%26%20Tools/git_logo.jpg)](https://git-scm.com/)
+[![jira](https://github.com/RuslanG13/RuslanG13/blob/main/src/Programming%20language%20%26%20Tools/jira_logo.jpg)](https://www.atlassian.com/software/jira)
+[![testRail](https://github.com/RuslanG13/RuslanG13/blob/main/src/Programming%20language%20%26%20Tools/testRail_logo.jpg)](https://www.testrail.com/)
+[![trello](https://github.com/RuslanG13/RuslanG13/blob/main/src/Programming%20language%20%26%20Tools/trello_logo.jpg)](https://trello.com/)
