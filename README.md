@@ -18,6 +18,7 @@ Also, I have some experience in automated testing_
 [![jira](https://github.com/RuslanG13/RuslanG13/blob/main/src/Programming%20language%20%26%20Tools/jira_logo.jpg)](https://www.atlassian.com/software/jira)
 [![testRail](https://github.com/RuslanG13/RuslanG13/blob/main/src/Programming%20language%20%26%20Tools/testRail_logo.jpg)](https://www.testrail.com/)
 [![trello](https://github.com/RuslanG13/RuslanG13/blob/main/src/Programming%20language%20%26%20Tools/trello_logo_.jpg)](https://trello.com/)
+[![sql](https://github.com/RuslanG13/RuslanG13/blob/main/src/Programming%20language%20%26%20Tools/sql_logo_.jpg)](https://www.sql.org/)
 
 ---
 
