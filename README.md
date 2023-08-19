@@ -1,16 +1,11 @@
-### Hi there 👋
+### Hi everyone 👋
+### My name is Ruslan
+### I'm QA Engineer
+---
+### About me:
+_Currently, I work as Manual QA Engineer with 2 commercial experience in testing.
+Also, I have some experience in automated testing_
 
-<!--
-**RuslanG13/RuslanG13** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+### Programming languages and Tools
+[![js](src/javascript_original_logo_icon_146455.jpg)](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
