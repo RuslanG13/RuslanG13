@@ -1,7 +1,8 @@
-### Hi everyone 👋 Nice to meet you here
+### Hi everyone 👋 
+### Nice to meet you here
 ### My name is Ruslan
 ### I'm QA Engineer
-### This is my Github account. Welcome :)
+### This is my Github Account
 ---
 ### About me:
 _Currently, I work as Manual QA Engineer with 2 commercial experience in software testing
@@ -21,4 +22,4 @@ Also, I have some experience in automated testing_
 [![sql](https://github.com/RuslanG13/RuslanG13/blob/main/src/Programming%20language%20%26%20Tools/sql_icon.jpg)](https://www.sql.org/)
 
 ---
-
+### Connect with me
