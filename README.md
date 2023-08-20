@@ -2,6 +2,7 @@
 ### My name is Ruslan
 ### I'm QA Engineer
 ### This is my Github Account
+### Welcome :)
 ---
 ### About me:
 _Currently, I work as Manual QA Engineer with 2 commercial experience in software testing
