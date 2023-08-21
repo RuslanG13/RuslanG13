@@ -5,8 +5,8 @@
 ### Welcome :)
 ---
 ### About me:
-_Currently, I work as Manual QA Engineer with 2 commercial experience in software testing
-Also, I have some experience in automated testing_
+_Currently, I work as Manual QA Engineer with 2 years commercial experience in software testing.
+Also, I have some experience in automation testing_
 
 ---
 ### Programming languages and Tools
