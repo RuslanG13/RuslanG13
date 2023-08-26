@@ -30,11 +30,12 @@ Also, I have some experience in automation testing_
 
 ---
 ### Codewars Stats
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=RuslanG13&layout=compact&hide=html)
+![Codewars](https://www.codewars.com/users/ruslan.gudenko/badges/large)
 
 ---
 ### Most Used Languages
-![Codewars](https://www.codewars.com/users/ruslan.gudenko/badges/large)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=RuslanG13&layout=compact&hide=html)
+
 
 ---
 ### GitHub Stats
