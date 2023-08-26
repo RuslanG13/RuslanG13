@@ -1,3 +1,4 @@
+<a id="anchor"></a>
 ### Hi everyone 👋
 ### My name is Ruslan
 ### I'm QA Engineer
@@ -40,9 +41,8 @@ Also, I have some experience in automation testing_
 ### Most Used Languages Stats
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=RuslanG13&layout=compact&hide=html)
 
----
-### Profile Visits
-![visitors](https://visitor-badge.glitch.me/badge?page_id=RuslanG13.RuslanG13&left_color=green&right_color=red)
+[Page Up](#anchor)
+
 
 
 
