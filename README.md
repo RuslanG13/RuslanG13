@@ -27,3 +27,5 @@ Also, I have some experience in automation testing_
 
 ---
 ### Connect with me
+[![email](https://github.com/RuslanG13/RuslanG13/blob/main/src/social%20media/email_logo.jpg)](ruslan.gudenko13@ukr.net)
+[![linkedIn](https://github.com/RuslanG13/RuslanG13/blob/main/src/social%20media/linkedin_logo.jpg)](https://www.linkedin.com/in/ruslan-gudenko-111a57221/)
