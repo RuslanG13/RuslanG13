@@ -33,12 +33,16 @@ Also, I have some experience in automation testing_
 ![Codewars](https://www.codewars.com/users/ruslan.gudenko/badges/large)
 
 ---
-### Most Used Languages
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=RuslanG13&layout=compact&hide=html)
-
+### GitHub Stats
+[![Gudenko's GitHub stats-Dark](https://github-readme-stats.vercel.app/api?username=RuslanG13&show_icons=true&theme=dark#gh-dark-mode-only)](https://github.com/RuslanG13/github-readme-stats#gh-dark-mode-only)
 
 ---
-### GitHub Stats
+### Most Used Languages Stats
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=RuslanG13&layout=compact&hide=html)
+
+---
+### Profile Visits
+![visitors](https://visitor-badge.glitch.me/badge?page_id=RuslanG13.RuslanG13&left_color=green&right_color=red)
 
 
 
