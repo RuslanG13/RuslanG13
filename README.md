@@ -1,4 +1,4 @@
-<a id="anchor"></a>
+<!--<a id="anchor"></a>
 ### Hi everyone 👋
 ### My name is Ruslan
 ### I'm QA Engineer
@@ -41,7 +41,7 @@ _I am a Manual QA Engineer with 2 years of commercial experience in software tes
 ### Most Used Languages Stats
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=RuslanG13&layout=compact&hide=html)
 
-[Page Up](#anchor)
+[Page Up](#anchor)-->
 
 
 
