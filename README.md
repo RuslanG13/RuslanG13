@@ -42,6 +42,7 @@ Also, I have some experience in creating automated tests using Cypress with Java
 ### Most Used Languages Stats
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=RuslanG13&layout=compact&hide=html)
 
+---
 [![Ruslan Gudenko profile views](https://u8views.com/api/v1/github/profiles/47644886/views/day-week-month-total-count.svg)](https://u8views.com/github/RuslanG13)
 
 [Page Up](#anchor)
