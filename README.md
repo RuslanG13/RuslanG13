@@ -32,11 +32,11 @@ Also, I have some experience in creating automated tests using Cypress with Java
 
 ---
 ### Codewars Stats
-###JavaScript
+### JavaScript
 
 ![Codewars](https://www.codewars.com/users/ruslan.gudenko/badges/large)
 
-###Python 
+### Python 
 
 ![Codewars](https://www.codewars.com/users/RuslanG13/badges/large)
 
