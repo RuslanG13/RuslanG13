@@ -32,8 +32,8 @@ Also, I have some experience in creating automated tests using Cypress with Java
 
 ---
 ### Codewars Stats
-![Codewars](https://www.codewars.com/users/ruslan.gudenko/badges/large)
-
+JavaScript - ![Codewars](https://www.codewars.com/users/ruslan.gudenko/badges/large)
+Python - ![Codewars](https://www.codewars.com/users/RuslanG13/badges/large)
 ---
 ### GitHub Stats
 [![Gudenko's GitHub stats-Dark](https://github-readme-stats.vercel.app/api?username=RuslanG13&show_icons=true&theme=dark#gh-dark-mode-only)](https://github.com/RuslanG13/github-readme-stats#gh-dark-mode-only)
