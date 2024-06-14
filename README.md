@@ -1,6 +1,6 @@
 <a id="anchor"></a>
-### Hi everyone 👋
-### My name is Ruslan
+## Hi everyone 👋
+## My name is Ruslan
 ### I'm QA Engineer
 ### This is my GitHub Account
 ### Welcome :)
