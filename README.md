@@ -1,15 +1,12 @@
 <a id="anchor"></a>
-## Hi everyone 👋
-## My name is Ruslan
-## I'm QA Engineer
-## This is my GitHub Account
-## Welcome :)
+# Hello and welcome to my GitHub Account👋
 ---
-## About Me:
-### I am a Manual QA Engineer with 2+ years of commercial experience in manual testing and 0.5 years of automation testing experience using Selenium Webdriver (Python)
+### My name is Ruslan. <br>  
+### I am a QA Engineer with 2.5 years of commercial experience in manual testing and 0.5 years of automation testing experience using Selenium Webdriver with Python.
 
 ---
-### Programming Languages And Tools
+### Programming Languages And Tools:
+<img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original-wordmark.svg" title="Python" alt="Python" width="40" height="40"/>
 [![js](https://github.com/RuslanG13/RuslanG13/blob/main/src/Programming%20language%20%26%20Tools/javascript_logo.jpg)](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
 [![cypress](https://github.com/RuslanG13/RuslanG13/blob/main/src/Programming%20language%20%26%20Tools/cypress_logo.jpg)](https://www.cypress.io/)
 [![postman](https://github.com/RuslanG13/RuslanG13/blob/main/src/Programming%20language%20%26%20Tools/postman_logo.jpg)](https://www.postman.com/)
