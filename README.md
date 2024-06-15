@@ -1,13 +1,12 @@
 <a id="anchor"></a>
 ## Hi everyone 👋
 ## My name is Ruslan
-### I'm QA Engineer
-### This is my GitHub Account
-### Welcome :)
+## I'm QA Engineer
+## This is my GitHub Account
+## Welcome :)
 ---
-### About Me:
-_I am a Manual QA Engineer with 2+ years of commercial experience in software testing and
-I have 0.5 years of automation testing experience using Selenium Webdriver (Python)_
+## About Me:
+#### I am a Manual QA Engineer with 2+ years of commercial experience in software testing and I have 0.5 years of automation testing experience using Selenium Webdriver (Python) as well
 
 ---
 ### Programming Languages And Tools
