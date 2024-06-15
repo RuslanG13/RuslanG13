@@ -5,7 +5,7 @@
 ### I am a QA Engineer with 2.5 years of commercial experience in manual testing and 0.5 years of automation testing experience using Selenium Webdriver with Python.
 
 ---
-### Programming Languages And Tools:
+### Programming Languages And Tools
 <div>
   
   <img src="https://github.com/devicons/devicon/blob/master/icons/jira/jira-original-wordmark.svg" title="Jira" alt="Jira" width="40" height="40"/>
