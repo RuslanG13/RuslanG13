@@ -1,8 +1,8 @@
 <a id="anchor"></a>
 # Hello and welcome to my GitHub account👋
 ---
-### My name is Ruslan. <br>  
-### I am a QA Engineer with 2.5 years of commercial experience in manual testing and 0.5 years of automation testing experience using Selenium Webdriver with Python.
+#### My name is Ruslan. <br>  
+#### I am a QA Engineer with 2.5 years of commercial experience in manual testing and 0.5 years of automation testing experience using Selenium Webdriver with Python.
 
 ---
 ### Programming Languages And Tools
@@ -21,6 +21,8 @@
   <img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original-wordmark.svg" title="MySQL" alt="MySQL" width="40" height="40"/>
   
   <img src="https://github.com/devicons/devicon/blob/master/icons/sentry/sentry-original-wordmark.svg" title="Sentry" alt="Sentry" width="40" height="40"/>
+
+  <img src="https://github.com/devicons/devicon/blob/master/icons/graphql/graphql-plain-wordmark.svg" title="GraphQL" alt="GraphQL" width="40" height="40"/>
   
 </div>
 
@@ -34,8 +36,6 @@
   
   <img src="https://github.com/devicons/devicon/blob/master/icons/selenium/selenium-original.svg" title="Selenium" alt="Selenium" width="40" height="40"/>
   
-  <img src="https://github.com/devicons/devicon/blob/master/icons/graphql/graphql-plain-wordmark.svg" title="GraphQL" alt="GraphQL" width="40" height="40"/>
-  
   <img src="https://github.com/devicons/devicon/blob/master/icons/linux/linux-original.svg" title="Linux" alt="Linux" width="40" height="40"/>
   
   <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="Git" alt="Git" width="40" height="40"/> 
@@ -46,8 +46,12 @@
 
 ---
 ### Contacts
-[![linked-in](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=LinkedIn&logoColor=white)](https://www.linkedin.com/in/ruslan-gudenko-111a57221/)
-[![instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/ruslan_gudenko13/)
+<div id="badges">
+  
+  [![linked-in](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=LinkedIn&logoColor=white)](https://www.linkedin.com/in/ruslan-gudenko-111a57221/)
+  [![instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/ruslan_gudenko13/)
+
+</div>
 
 ---
 ### Codewars Stats
@@ -61,11 +65,10 @@
 
 ---
 ### GitHub Stats
-[![Gudenko's GitHub stats-Dark](https://github-readme-stats.vercel.app/api?username=RuslanG13&show_icons=true&theme=dark#gh-dark-mode-only)](https://github.com/RuslanG13/github-readme-stats#gh-dark-mode-only)
 
----
-### Most Used Languages Stats
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=RuslanG13&layout=compact&hide=html)
+[![Gudenko GitHub stats](https://github-readme-stats.vercel.app/api?username=RuslanG13&show_icons=true&theme=tokyonight#gh-dark-mode-only)](https://github.com/RuslanG13/github-readme-stats#gh-dark-mode-only)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=RuslanG13&layout=compact&theme=tokyonight&hide=html)
 
 ---
 [![Ruslan Gudenko profile views](https://u8views.com/api/v1/github/profiles/47644886/views/day-week-month-total-count.svg)](https://u8views.com/github/RuslanG13)
