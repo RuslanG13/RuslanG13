@@ -6,7 +6,7 @@
 ## Welcome :)
 ---
 ## About Me:
-#### I am a Manual QA Engineer with 2+ years of commercial experience in software testing and I have 0.5 years of automation testing experience using Selenium Webdriver (Python) as well
+### I am a Manual QA Engineer with 2+ years of commercial experience in manual testing and 0.5 years of automation testing experience using Selenium Webdriver (Python) as well
 
 ---
 ### Programming Languages And Tools
