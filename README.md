@@ -2,7 +2,7 @@
 # Hello and welcome to my GitHub account👋
 ---
 #### My name is Ruslan. <br>  
-#### I am a QA Engineer with 2.5 years of commercial experience in manual testing and 0.5 years of automation testing experience using Selenium Webdriver with Python.
+#### I am a QA Engineer with 2 years of experience in manual testing and 0.5 years of automation testing experience using Selenium Webdriver with Python.
 
 ---
 ### Programming Languages And Tools
