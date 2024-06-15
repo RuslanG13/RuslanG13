@@ -28,6 +28,8 @@
   
   <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original-wordmark.svg" title="Python" alt="Python" width="40" height="40"/>
   
+  <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" title="JavaScript" alt="JavaScript" width="40" height="40"/>
+  
   <img src="https://github.com/devicons/devicon/blob/master/icons/pytest/pytest-original-wordmark.svg" title="Pytest" alt="Pytest" width="40" height="40"/>
   
   <img src="https://github.com/devicons/devicon/blob/master/icons/selenium/selenium-original.svg" title="Selenium" alt="Selenium" width="40" height="40"/>
@@ -43,9 +45,9 @@
 </div>  
 
 ---
-### Connect With Me
-[![email](https://github.com/RuslanG13/RuslanG13/blob/main/src/social%20media/email_logo.jpg)](mailto:ruslan.gudenko13@ukr.net)
-[![linkedIn](https://github.com/RuslanG13/RuslanG13/blob/main/src/social%20media/linkedin_logo.jpg)](https://www.linkedin.com/in/ruslan-gudenko-111a57221/)
+### Contacts
+[![linked-in](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=LinkedIn&logoColor=white)](https://www.linkedin.com/in/ruslan-gudenko-111a57221/)
+[![instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/ruslan_gudenko13/)
 
 ---
 ### Codewars Stats
