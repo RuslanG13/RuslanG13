@@ -48,7 +48,7 @@
 ### Contacts
 <div id="badges">
   
-  [![linked-in](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=LinkedIn&logoColor=white)](https://www.linkedin.com/in/ruslan-gudenko-111a57221/)
+  [![linked-in](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=LinkedIn&logoColor=white)](https://www.linkedin.com/in/ruslan-hudenko-111a57221/)
   <!-- [![instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/ruslan_gudenko13/) -->
 
 </div>
@@ -66,12 +66,12 @@
 ---
 ### GitHub Stats
 
-[![Gudenko GitHub stats](https://github-readme-stats.vercel.app/api?username=RuslanG13&show_icons=true&theme=tokyonight#gh-dark-mode-only)](https://github.com/RuslanG13/github-readme-stats#gh-dark-mode-only)
+[![Hudenko GitHub stats](https://github-readme-stats.vercel.app/api?username=RuslanG13&show_icons=true&theme=tokyonight#gh-dark-mode-only)](https://github.com/RuslanG13/github-readme-stats#gh-dark-mode-only)
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=RuslanG13&layout=compact&theme=tokyonight&hide=html)
 
 ---
-[![Ruslan Gudenko profile views](https://u8views.com/api/v1/github/profiles/47644886/views/day-week-month-total-count.svg)](https://u8views.com/github/RuslanG13)
+[![Ruslan Hudenko profile views](https://u8views.com/api/v1/github/profiles/47644886/views/day-week-month-total-count.svg)](https://u8views.com/github/RuslanG13)
 
 [Page Up](#anchor)
 
