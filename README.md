@@ -2,7 +2,7 @@
 # Hello and welcome to my GitHub account👋
 ---
 #### My name is Ruslan. <br>  
-#### I am a QA Engineer with 3 years of experience in software testing.
+#### Result-oriented and reliable QA specialist, focused on bringing products to market faster. Comfortable working with concise developers and product owners, complex logic, and new tools to improve speed and efficiency
 
 ---
 ### Programming Languages And Tools
