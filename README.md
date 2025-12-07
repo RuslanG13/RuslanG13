@@ -69,7 +69,7 @@
   <!--[![](https://github-readme-stats.vercel.app/api?username=RuslanG13&show_icons=true&theme=tokyonight#gh-dark-mode-only)](https://github.com/RuslanG13/github-readme-stats#gh-dark-mode-only) -->
 
   <!--![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=RuslanG13&layout=compact&theme=tokyonight&hide=html,css,java)-->
-[![Ruslan's GitHub stats](https://github-readme-stats.vercel.app/api?username=RuslanG13)](https://github.com/anuraghazra/github-readme-stats)
+[![Ruslan's GitHub stats](https://github-readme-stats.vercel.app/api?username=RuslanG13)](https://github.com/RuslanG13/github-readme-stats)
 
 ---
 [![Ruslan Hudenko profile views](https://u8views.com/api/v1/github/profiles/47644886/views/day-week-month-total-count.svg)](https://u8views.com/github/RuslanG13)
