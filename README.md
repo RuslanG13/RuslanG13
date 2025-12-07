@@ -1,6 +1,6 @@
 <a id="anchor"></a>
 # Hello and welcome to my GitHub account👋
----
+<!-- --- -->
 #### My name is Ruslan.<br>  
 #### Result-oriented and reliable QA specialist, focused on bringing products to market faster. Comfortable working with concise developers and product owners, complex logic, and new tools to improve speed and efficiency
 
@@ -28,13 +28,13 @@
 
 <div>
   
-  <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original-wordmark.svg" title="Python" alt="Python" width="40" height="40"/>
+  <!-- <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original-wordmark.svg" title="Python" alt="Python" width="40" height="40"/> -->
   
   <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" title="JavaScript" alt="JavaScript" width="40" height="40"/>
   
-  <img src="https://github.com/devicons/devicon/blob/master/icons/pytest/pytest-original-wordmark.svg" title="Pytest" alt="Pytest" width="40" height="40"/>
+  <!-- <img src="https://github.com/devicons/devicon/blob/master/icons/pytest/pytest-original-wordmark.svg" title="Pytest" alt="Pytest" width="40" height="40"/> -->
   
-  <img src="https://github.com/devicons/devicon/blob/master/icons/selenium/selenium-original.svg" title="Selenium" alt="Selenium" width="40" height="40"/>
+  <!-- <img src="https://github.com/devicons/devicon/blob/master/icons/selenium/selenium-original.svg" title="Selenium" alt="Selenium" width="40" height="40"/> -->
   
   <img src="https://github.com/devicons/devicon/blob/master/icons/linux/linux-original.svg" title="Linux" alt="Linux" width="40" height="40"/>
   
@@ -57,21 +57,22 @@
 ### Codewars Stats
 ### JavaScript
 
-![Codewars](https://www.codewars.com/users/ruslan.gudenko/badges/large)
-
-### Python 
-
 ![Codewars](https://www.codewars.com/users/RuslanG13/badges/large)
+<!-- ![Codewars](https://www.codewars.com/users/ruslan.gudenko/badges/large) -->
+
+<!-- ### Python --> 
+
+<!-- ![Codewars](https://www.codewars.com/users/RuslanG13/badges/large) -->
 
 ---
-### GitHub Stats
+ <!--### GitHub Stats -->
 
   <!--[![](https://github-readme-stats.vercel.app/api?username=RuslanG13&show_icons=true&theme=tokyonight#gh-dark-mode-only)](https://github.com/RuslanG13/github-readme-stats#gh-dark-mode-only) -->
 
   <!--![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=RuslanG13&layout=compact&theme=tokyonight&hide=html,css,java)-->
-[![Ruslan's GitHub stats](https://github-readme-stats.vercel.app/api?username=RuslanG13)](https://github.com/RuslanG13/github-readme-stats)
+ <!--[![Ruslan's GitHub stats](https://github-readme-stats.vercel.app/api?username=RuslanG13)](https://github.com/RuslanG13/github-readme-stats)
 
----
+--- -->
 [![Ruslan Hudenko profile views](https://u8views.com/api/v1/github/profiles/47644886/views/day-week-month-total-count.svg)](https://u8views.com/github/RuslanG13)
 
 [Page Up](#anchor)
